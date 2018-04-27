@@ -41,6 +41,7 @@ buck-out/
 \.buckd/
 *.keystore
 ios/GoogleService-Info.plist
+android/app/google-services.json
 
 # fastlane
 #
